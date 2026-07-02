@@ -24,7 +24,7 @@ Three parametric shading panel components built in Grasshopper, used to generate
 | Radius | Number | 20 | Panel radius (cm) |
 | Vertical rotation angle | Angle | — | Vertical tilt of each panel |
 | Horizontal rotation angle | Angle | 20 | Horizontal tilt of each panel |
-| B | Number | 0.1 | Porosity / gap factor between panels |
+| Gap/Panel size | Number | 0.1 | Porosity / gap factor between panels |
 
 Output: **Panel** (Brep)
 
